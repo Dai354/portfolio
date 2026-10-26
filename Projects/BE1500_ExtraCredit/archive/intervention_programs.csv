@@ -1,0 +1,21 @@
+program_name,implementing_organization,intervention_type,target_region,countries_active,start_year,status,children_reached_millions,cost_per_child_usd,reading_improvement_pct_points,numeracy_improvement_pct_points,learning_adjusted_years_gained,school_attendance_impact_pct_points,gender_equity_impact_gpi,evidence_quality,total_funding_million_usd
+Teaching at the Right Level (TaRL),Pratham / J-PAL,Pedagogy,South Asia,14,2001,Completed,8.7,358.0,21.8,21.48,0.48,17.54,1.137,Quasi-experimental,259.99
+UNICEF Foundational Literacy,UNICEF,Curriculum,Global,68,2018,Active,165.85,270.48,16.01,22.87,2.85,4.55,1.036,Mixed methods,377.25
+Read India,Pratham,Pedagogy,South Asia,1,2007,Scaling,2.13,142.49,25.4,45.14,1.79,21.78,0.924,RCT,141.89
+Room to Read Literacy,Room to Read,Library & Materials,Global,22,2000,Scaling,29.97,405.58,53.28,37.16,1.28,14.2,0.996,Mixed methods,179.34
+Tusome Early Grade Reading,USAID / Kenya MoE,Structured Pedagogy,Sub-Saharan Africa,1,2014,Active,1.85,130.96,17.22,32.37,0.55,8.97,1.116,Mixed methods,53.19
+PRIMR Initiative,RTI International,Structured Pedagogy,Sub-Saharan Africa,5,2011,Active,1.14,184.42,50.27,23.25,1.63,21.11,0.925,RCT,95.19
+Global Book Alliance,USAID / Multi-donor,Library & Materials,Global,30,2016,Active,4.85,424.76,27.3,17.15,1.79,6.97,1.067,RCT,112.87
+Accelerated Education Working Group,UNHCR,Emergency Education,Global,24,2015,Active,57.69,253.09,16.82,13.64,1.73,13.56,1.107,Mixed methods,30.59
+School Feeding Programme,WFP,Nutrition & Access,Global,74,1963,Scaling,139.63,186.74,37.95,50.62,1.79,21.43,0.878,Observational,278.51
+GPE Literacy & Numeracy,Global Partnership for Education,System Strengthening,Global,76,2002,Active,80.14,199.71,25.87,37.73,1.63,23.49,0.922,Quasi-experimental,463.15
+Catch-Up Learning,World Bank,Post-COVID Recovery,Global,55,2021,Active,76.66,266.74,61.22,5.3,1.26,20.77,0.873,Observational,333.23
+Kolibri Digital Platform,Learning Equality,EdTech,Global,35,2016,Active,13.21,126.63,44.2,13.65,1.58,6.22,0.986,Observational,232.71
+ASER Assessment,Pratham / ASER Centre,Assessment,South Asia,14,2005,Active,30.69,193.82,17.96,35.96,2.5,8.45,1.067,RCT,192.2
+Early Grade Reading Assessment (EGRA),USAID / RTI,Assessment,Global,70,2006,Scaling,91.16,160.14,28.06,12.29,1.39,11.1,1.143,Mixed methods,220.38
+Mother Tongue Based Multilingual Education,UNESCO,Language Policy,Global,42,2010,Active,10.7,349.35,36.21,24.47,0.82,18.19,1.086,RCT,400.2
+Stepping Stones Literacy,Save the Children,Community-based,Sub-Saharan Africa,18,2012,Active,2.08,29.02,31.66,42.66,2.31,17.76,0.947,Mixed methods,282.58
+Zero Dropout Campaign,Education Above All,Access & Retention,Global,54,2012,Active,63.49,59.44,26.89,9.23,2.71,20.07,0.99,RCT,396.64
+Technology-Aided Learning (TAL),Mindspark / EI,EdTech,South Asia,3,2014,Active,4.7,360.92,10.19,12.3,0.81,14.76,1.063,RCT,172.73
+RISE Programme,Oxford / FCDO,Research & Policy,Global,12,2015,Active,2.94,335.96,27.04,48.1,2.74,9.74,1.022,Quasi-experimental,18.43
+Literacy Boost,Save the Children,Community-based,Global,28,2009,Active,14.01,348.71,21.75,16.01,0.94,23.21,0.982,Observational,10.04

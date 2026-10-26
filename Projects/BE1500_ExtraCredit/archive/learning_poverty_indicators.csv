@@ -1,0 +1,70 @@
+country,iso3_code,region,income_group,year,learning_poverty_pct,below_min_proficiency_reading_pct,below_min_proficiency_math_pct,schooling_deprivation_pct,learning_deprivation_pct,learning_adjusted_years_of_school,expected_years_of_school,human_capital_index,pre_primary_gross_enrollment_pct,trained_teachers_pct
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,2024,68.9,64.59,69.79,15.58,53.31,6.88,7.62,0.576,49.92,54.09
+Ethiopia,ETH,Sub-Saharan Africa,Low income,2024,82.21,84.67,84.8,9.46,72.74,5.87,7.66,0.455,35.7,52.78
+DR Congo,COD,Sub-Saharan Africa,Low income,2024,84.37,84.46,86.84,8.53,75.83,5.06,8.33,0.392,30.39,50.96
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,2024,56.72,55.26,64.21,11.69,45.03,7.52,8.55,0.581,52.3,66.83
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,2024,46.41,52.29,61.28,12.14,34.28,8.36,9.34,0.724,71.64,58.21
+Uganda,UGA,Sub-Saharan Africa,Low income,2024,91.46,97.31,99.0,7.17,84.3,5.25,7.17,0.441,18.49,34.72
+Mozambique,MOZ,Sub-Saharan Africa,Low income,2024,83.38,87.48,89.94,17.62,65.75,4.38,7.61,0.432,34.85,48.78
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,2024,66.8,73.52,78.32,12.4,54.4,7.27,9.93,0.578,43.67,64.5
+Mali,MLI,Sub-Saharan Africa,Low income,2024,91.76,91.29,91.66,13.63,78.13,4.88,8.27,0.389,25.47,48.83
+Niger,NER,Sub-Saharan Africa,Low income,2024,93.19,98.58,99.0,9.48,83.71,5.14,8.18,0.422,26.49,49.32
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,2024,93.27,89.88,87.96,11.08,82.19,3.47,5.79,0.443,29.45,54.51
+Malawi,MWI,Sub-Saharan Africa,Low income,2024,88.38,94.23,93.01,12.62,75.76,5.48,8.17,0.429,31.59,58.88
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,2024,71.38,67.01,71.1,13.11,58.26,6.18,9.47,0.502,43.22,62.29
+Chad,TCD,Sub-Saharan Africa,Low income,2024,88.93,94.3,93.61,12.38,76.54,4.54,6.09,0.401,33.03,40.07
+South Sudan,SSD,Sub-Saharan Africa,Low income,2024,83.1,81.1,86.0,7.77,75.33,5.81,9.27,0.462,19.8,44.62
+Rwanda,RWA,Sub-Saharan Africa,Low income,2024,82.49,80.79,84.62,12.81,69.67,6.04,7.16,0.453,27.22,64.64
+Guinea,GIN,Sub-Saharan Africa,Low income,2024,87.77,90.04,88.03,19.05,68.72,5.05,7.12,0.406,25.27,51.61
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,2024,92.95,89.53,95.07,13.48,79.47,4.7,6.03,0.435,29.72,45.26
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2024,55.41,57.15,59.73,10.24,45.17,7.06,8.33,0.565,54.23,65.94
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,2024,29.89,36.8,35.48,4.28,25.62,10.18,12.82,0.828,75.2,77.85
+India,IND,South Asia,Lower middle income,2024,51.98,55.99,59.58,14.83,37.15,8.95,11.81,0.623,52.49,72.79
+Pakistan,PAK,South Asia,Lower middle income,2024,51.91,47.33,53.12,5.13,46.78,8.14,9.58,0.626,60.54,67.28
+Bangladesh,BGD,South Asia,Lower middle income,2024,71.5,67.79,71.41,6.18,65.32,6.96,9.54,0.566,30.25,56.69
+Afghanistan,AFG,South Asia,Low income,2024,91.49,91.26,94.69,14.81,76.68,4.03,4.73,0.374,19.48,48.45
+Nepal,NPL,South Asia,Lower middle income,2024,57.43,57.12,58.47,13.79,43.65,6.75,9.38,0.617,47.07,87.57
+Sri Lanka,LKA,South Asia,Lower middle income,2024,48.03,46.47,49.12,8.42,39.61,8.31,9.99,0.736,59.89,56.33
+Indonesia,IDN,East Asia & Pacific,Upper middle income,2024,36.36,40.5,50.39,2.6,33.76,9.01,11.15,0.862,79.62,90.78
+Philippines,PHL,East Asia & Pacific,Lower middle income,2024,59.4,61.41,59.97,9.91,49.49,6.62,8.15,0.531,50.9,62.68
+Myanmar,MMR,East Asia & Pacific,Lower middle income,2024,69.14,75.95,73.45,19.22,49.93,6.93,8.93,0.545,41.07,64.49
+Cambodia,KHM,East Asia & Pacific,Lower middle income,2024,44.11,40.11,37.15,7.16,36.95,8.29,11.11,0.609,62.58,77.84
+Laos,LAO,East Asia & Pacific,Lower middle income,2024,48.82,55.03,60.29,4.43,44.39,8.01,8.64,0.659,64.96,77.87
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,2024,54.98,55.05,54.62,8.12,46.86,6.84,8.78,0.664,43.47,70.29
+China,CHN,East Asia & Pacific,Upper middle income,2024,27.92,34.36,39.04,3.78,24.14,9.55,12.91,0.805,79.26,89.8
+Vietnam,VNM,East Asia & Pacific,Lower middle income,2024,50.28,45.53,50.87,7.44,42.84,7.19,10.04,0.657,58.29,87.31
+Thailand,THA,East Asia & Pacific,Upper middle income,2024,19.22,24.61,26.15,1.68,17.55,9.89,11.53,0.916,73.07,78.36
+Malaysia,MYS,East Asia & Pacific,Upper middle income,2024,21.59,21.89,19.86,3.63,17.96,10.6,12.56,0.891,83.65,94.63
+Egypt,EGY,Middle East & North Africa,Lower middle income,2024,43.12,45.67,48.65,5.5,37.62,8.13,9.07,0.736,64.86,57.29
+Iraq,IRQ,Middle East & North Africa,Upper middle income,2024,26.06,24.47,24.2,1.96,24.1,10.35,11.05,0.906,98.53,79.12
+Yemen,YEM,Middle East & North Africa,Low income,2024,91.95,99.0,99.0,23.57,68.38,4.65,7.49,0.394,30.66,43.47
+Morocco,MAR,Middle East & North Africa,Lower middle income,2024,52.65,47.76,51.07,5.29,47.35,8.85,9.67,0.693,55.26,78.88
+Syria,SYR,Middle East & North Africa,Low income,2024,91.9,99.0,99.0,6.47,85.43,4.57,6.22,0.378,23.53,42.8
+Tunisia,TUN,Middle East & North Africa,Lower middle income,2024,61.29,63.57,64.82,5.84,55.46,7.63,8.29,0.548,47.68,69.57
+Jordan,JOR,Middle East & North Africa,Upper middle income,2024,21.15,27.69,28.9,6.29,14.86,10.02,12.06,0.853,77.59,88.69
+Libya,LBY,Middle East & North Africa,Upper middle income,2024,31.51,32.84,30.13,2.4,29.11,9.86,10.74,0.773,67.42,75.77
+Brazil,BRA,Latin America & Caribbean,Upper middle income,2024,25.48,26.24,34.98,7.58,17.9,9.19,12.03,0.767,80.81,91.56
+Mexico,MEX,Latin America & Caribbean,Upper middle income,2024,23.77,26.35,34.26,4.01,19.77,10.78,12.41,0.814,77.31,93.09
+Colombia,COL,Latin America & Caribbean,Upper middle income,2024,38.65,39.65,46.67,6.19,32.46,8.53,9.59,0.643,78.21,100.0
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,2024,25.08,28.18,34.51,5.07,20.01,9.79,10.51,0.808,73.75,91.45
+Haiti,HTI,Latin America & Caribbean,Low income,2024,83.07,87.82,95.13,22.23,60.85,5.7,9.19,0.433,31.44,58.91
+Honduras,HND,Latin America & Caribbean,Lower middle income,2024,49.26,48.96,48.77,7.43,41.83,7.58,10.15,0.701,54.44,91.94
+Peru,PER,Latin America & Caribbean,Upper middle income,2024,25.05,26.29,24.86,2.28,22.76,10.01,11.19,0.835,76.95,83.12
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,2024,62.99,68.7,66.18,10.66,52.32,6.53,7.65,0.568,56.45,57.01
+Argentina,ARG,Latin America & Caribbean,Upper middle income,2024,32.45,34.67,33.84,9.1,23.35,8.88,12.16,0.87,74.61,84.9
+Turkey,TUR,Europe & Central Asia,Upper middle income,2024,30.13,33.87,33.29,3.22,26.9,9.29,10.26,0.815,82.67,83.32
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,2024,65.67,65.32,69.97,14.39,51.28,7.08,10.31,0.637,39.79,75.71
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,2024,68.58,73.61,81.53,11.9,56.68,7.25,10.39,0.523,37.02,56.66
+Kyrgyzstan,KGZ,Europe & Central Asia,Lower middle income,2024,54.9,50.56,51.11,15.74,39.16,7.41,9.92,0.638,54.03,66.3
+Romania,ROU,Europe & Central Asia,Upper middle income,2024,34.88,30.2,28.43,8.92,25.96,9.48,11.45,0.769,82.1,82.99
+Germany,DEU,Europe & Central Asia,High income,2024,5.09,9.32,8.25,0.99,4.1,10.83,13.17,0.95,90.91,90.35
+France,FRA,Europe & Central Asia,High income,2024,6.21,7.15,10.38,1.62,4.59,11.42,13.66,0.95,88.16,100.0
+United Kingdom,GBR,Europe & Central Asia,High income,2024,6.49,7.78,15.02,0.45,6.04,11.27,13.16,0.95,94.09,90.61
+Poland,POL,Europe & Central Asia,High income,2024,2.44,1.52,6.39,0.49,1.94,12.21,12.97,0.95,99.0,100.0
+Finland,FIN,Europe & Central Asia,High income,2024,2.35,1.0,1.0,0.64,1.71,11.65,12.7,0.95,94.35,100.0
+United States,USA,North America,High income,2024,4.65,1.69,2.59,1.26,3.39,12.02,15.36,0.95,99.0,100.0
+Canada,CAN,North America,High income,2024,4.16,11.15,15.16,0.59,3.57,11.2,14.24,0.95,97.04,94.91
+Australia,AUS,East Asia & Pacific,High income,2024,5.96,7.65,13.79,0.62,5.34,10.87,13.43,0.927,99.0,93.73
+Japan,JPN,East Asia & Pacific,High income,2024,6.74,12.18,20.93,1.34,5.4,11.38,13.23,0.95,93.27,74.15
+South Korea,KOR,East Asia & Pacific,High income,2024,4.13,5.72,4.8,0.65,3.48,11.43,11.96,0.95,83.92,93.0
+Singapore,SGP,East Asia & Pacific,High income,2024,4.76,1.0,9.74,1.2,3.56,11.84,14.85,0.862,99.0,100.0
