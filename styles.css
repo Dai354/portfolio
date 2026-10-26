@@ -194,6 +194,20 @@ nav .right a span {
     color: var(--link-color);
 }
 
+.projects-section .cards .card .media {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: contain;
+    border-radius: 5px;
+    background-color: #000;
+}
+
+.projects-section .cards .card .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
 .projects-section .cards .card h3 {
     font-size: 22px;
 }

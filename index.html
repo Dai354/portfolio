@@ -135,6 +135,44 @@
 
         <div class="cards">
             <div class="card">
+                <video class="media" controls muted playsinline preload="none" poster="images/parking-sensor/closeup.jpg">
+                    <source src="images/parking-sensor/demo-1.mp4" type="video/mp4">
+                    <img src="images/parking-sensor/closeup.jpg" alt="Arduino parking sensor showing the distance on an LCD">
+                </video>
+                <h3>Ultrasonic Parking Sensor</h3>
+                <div class="tags">
+                    <span>Arduino</span>
+                    <span>C++</span>
+                    <span>Embedded Systems</span>
+                    <span>Sensors</span>
+                </div>
+                <p>
+                    A car-style parking aid built on an Arduino UNO with an HC-SR04 ultrasonic sensor. A 16x2 LCD shows the live
+                    distance in inches, while green, yellow, and red LEDs and a buzzer mark Safe, Caution (5&ndash;12 in, beeping faster
+                    as objects get closer), and Stop (under 5 in) zones. The firmware median-filters readings, adds hysteresis to
+                    prevent flicker at zone edges, corrects the speed of sound for air temperature, and logs CSV data over serial.
+                </p>
+                <div class="links">
+                    <a href="Projects/ParkingSensor/parking_sensor.ino" download>
+                        <i class="fa-solid fa-code"></i>
+                        <span>Code</span>
+                    </a>
+                    <a href="images/parking-sensor/wiring.png" target="_blank">
+                        <i class="fa-solid fa-diagram-project"></i>
+                        <span>Wiring</span>
+                    </a>
+                    <a href="images/parking-sensor/demo-2.mp4" target="_blank">
+                        <i class="fa-solid fa-video"></i>
+                        <span>Demo 2</span>
+                    </a>
+                    <a href="images/parking-sensor/front.jpg" target="_blank">
+                        <i class="fa-solid fa-image"></i>
+                        <span>Photo</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="card">
                 <i class="fa-solid fa-lock"></i>
                 <h3>RFID Door Lock</h3>
                 <div class="tags">
@@ -147,7 +185,7 @@
                     to lock and unlock a door with a hand-held card tag. We presented our design, results, and a commercialization
                     plan on a research poster, with next steps including PIR sensors and a compact wall-mounted enclosure.
                 </p>
-                <a href="Projects/Daishon, deeksha, Harshil, and Jose's Project poster.pptx">
+                <a href="Projects/RFID_Door_Lock_Poster.pptx">
                     <i class="fa-solid fa-file-powerpoint"></i>
                     <span>View Poster</span>
                 </a>

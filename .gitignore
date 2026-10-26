@@ -1,0 +1,6 @@
+# Local tools and environments that should never be published
+.claude/
+.venv/
+__pycache__/
+.idea/
+desktop.ini
