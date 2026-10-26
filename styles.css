@@ -171,9 +171,9 @@ nav .right a span {
 }
 
 .projects-section .cards {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr));
+    gap: 20px;
 }
 
 .projects-section .cards .card {
@@ -181,12 +181,32 @@ nav .right a span {
     flex-direction: column;
     gap: 10px;
 
-    width: 400px;
     padding: 20px;
-    margin: 10px;
     border: 1.5px solid #d3d3d3;
     border-radius: 5px;
     color: var(--text-color);
+}
+
+/* Featured card spans the full row with its media beside the text,
+   so its height doesn't stretch the cards next to it */
+.projects-section .cards .card.featured {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    grid-template-rows: auto auto auto 1fr;
+    align-items: start;
+    column-gap: 30px;
+    row-gap: 10px;
+}
+
+.projects-section .cards .card.featured .media {
+    grid-column: 1;
+    grid-row: 1 / -1;
+    align-self: start;
+}
+
+.projects-section .cards .card.featured > :not(.media) {
+    grid-column: 2;
 }
 
 .projects-section .cards .card > i {
@@ -305,6 +325,13 @@ nav .right a span {
     }
 }
 
+@media (max-width: 900px) {
+    /* SECTION 3: Projects */
+    .projects-section .cards .card.featured {
+        display: flex;
+    }
+}
+
     @media (max-width: 740px) {
     /* SECTION 1 Hero */
     .hero-section  {
@@ -362,11 +389,6 @@ nav .right a span {
  /* SECTION 3: Projects */
  .projects-section {
     padding: 0 20px;
- }
-
- .projects-section .cards .card {
-    width: 100%;
-    margin: 10px 0;
  }
 
   /* SECTION 4: Contact */
