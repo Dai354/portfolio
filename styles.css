@@ -193,7 +193,7 @@ nav .right a span {
     grid-column: 1 / -1;
     display: grid;
     grid-template-columns: 2fr 3fr;
-    grid-template-rows: auto auto auto 1fr;
+    grid-template-rows: repeat(6, auto) 1fr;
     align-items: start;
     column-gap: 30px;
     row-gap: 10px;
@@ -220,6 +220,13 @@ nav .right a span {
     object-fit: contain;
     border-radius: 5px;
     background-color: #000;
+}
+
+/* Pixel art stays crisp instead of blurring when scaled */
+.projects-section .cards .card .sprites {
+    width: 100%;
+    max-width: 550px;
+    image-rendering: pixelated;
 }
 
 .projects-section .cards .card .links {

@@ -79,7 +79,7 @@
         <div class="text">
             My technical skills include Python, MATLAB, C++ and Arduino programming, HTML, and CSS.
             I have experience building embedded systems projects, performing data analysis and statistical modeling with NumPy and Matplotlib,
-            developing responsive web content, and creating pixel art assets for games.
+            developing responsive web content, and building 2D games in Python with Pygame using my own pixel art.
              I am continuously expanding my knowledge through coursework, independent projects, and hands-on engineering experiences.
         </div>
 
@@ -130,7 +130,7 @@
      <section id="projects" class="projects-section">
         <h2>Projects</h2>
         <div class="text">
-            A selection of engineering, data analysis, and creative projects from my coursework and independent work.
+            A selection of engineering, data analysis, game development, and creative projects from my coursework and independent work.
         </div>
 
         <div class="cards">
@@ -168,6 +168,51 @@
                     <a href="images/parking-sensor/front.jpg" target="_blank">
                         <i class="fa-solid fa-image"></i>
                         <span>Photo</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="card featured">
+                <video class="media" controls muted loop playsinline preload="none" poster="images/platformer/poster.png">
+                    <source src="images/platformer/gameplay.mp4" type="video/mp4">
+                    <img src="images/platformer/poster.png" alt="Pixel art character jumping between platforms in the platformer game">
+                </video>
+                <h3>Rocket 2025 Internship Game</h3>
+                <div class="tags">
+                    <span>Python</span>
+                    <span>Pygame</span>
+                    <span>Game Development</span>
+                    <span>Pixel Art</span>
+                    <span>Piskel</span>
+                </div>
+                <p>
+                    An endless side-scrolling platformer I programmed in Python with Pygame during my 2025 Rocket internship.
+                    I designed three of the four playable characters, the falling star hazards, and a rock monster obstacle as pixel art in Piskel.
+                    Players jump across moving platforms while dodging falling rocks, stars, and trap blocks, collecting hearts to heal
+                    and trophies for temporary immunity.
+                </p>
+                <p>
+                    Platforms are procedurally generated ahead of the player with gaps limited to what a jump can clear, and the game
+                    gets harder as the score climbs. It also includes a scrolling parallax camera, landing-only collision, characters
+                    you can switch mid-run, a saved high score, and an Inverted Mode where the whole world spins upside down between 1,500 and 3,000 points.
+                </p>
+                <img class="sprites" src="images/platformer/pixel-art.png" alt="Pixel art I designed in Piskel: three playable characters, a star hazard, and a rock monster obstacle">
+                <div class="links">
+                    <a href="Projects/PlatformerGame/endgame.py" download>
+                        <i class="fa-solid fa-code"></i>
+                        <span>Code</span>
+                    </a>
+                    <a href="Projects/PlatformerGame/PlatformerGame.zip" download>
+                        <i class="fa-solid fa-download"></i>
+                        <span>Download Game</span>
+                    </a>
+                    <a href="images/platformer/inverted.png" target="_blank">
+                        <i class="fa-solid fa-rotate"></i>
+                        <span>Inverted Mode</span>
+                    </a>
+                    <a href="images/platformer/pixel-art.png" target="_blank">
+                        <i class="fa-solid fa-palette"></i>
+                        <span>Pixel Art</span>
                     </a>
                 </div>
             </div>
@@ -237,20 +282,6 @@
                     A collection of Python scripts for chemistry, statistics, and calculus coursework. Includes a lab tool that fits a
                     best-fit line to mass and volume measurements to find density, statistical summaries such as mean, median, mode,
                     and standard deviation, and 2D and 3D plots of solids with square cross-sections.
-                </p>
-            </div>
-
-            <div class="card">
-                <i class="fa-solid fa-gamepad"></i>
-                <h3>2D Platformer Pixel Art</h3>
-                <div class="tags">
-                    <span>Piskel</span>
-                    <span>Pixel Art</span>
-                    <span>Game Design</span>
-                </div>
-                <p>
-                    Custom pixel art characters and animation sprite sheets designed in Piskel for a 2D platformer game,
-                    organized alongside level assets such as blocks, falling platforms, saws, and spike and rock head traps.
                 </p>
             </div>
 
